@@ -5,7 +5,7 @@
 I'm a software engineer whose passionate about creating open-source projects that users and engineers will love to use. The reason I love tech is because i get to collaborate with other developers around world. Learning something new everyday is something is strive for.
 
 <a href="https://github.com/esaldivar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaldivar&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispozo94&layout=compact&theme=radical" />
 </a>
 
 
