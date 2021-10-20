@@ -4,7 +4,7 @@
 
 I'm a software engineer whose passionate about creating open-source projects that users and engineers will love to use. The reason I love tech is because i get to collaborate with other developers around world. Learning something new everyday is something is strive for.
 
-Skills: Skills: / REACT / REDUX /  JS / TypeScript / SASS /  MONGODB /MATERIAL UI / TAILWIND / HTML / CSS
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/luispozo26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="print_helloeric" height="30" width="40" /></a>
