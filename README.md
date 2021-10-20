@@ -4,9 +4,10 @@
 
 I'm a software engineer whose passionate about creating open-source projects that users and engineers will love to use. The reason I love tech is because i get to collaborate with other developers around world. Learning something new everyday is something is strive for.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<a href="https://github.com/esaldivar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaldivar&layout=compact&theme=radical" />
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/luispozo26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="print_helloeric" height="30" width="40" /></a>
