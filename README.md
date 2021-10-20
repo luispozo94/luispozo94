@@ -1,14 +1,13 @@
-### Hi there 👋, Hi 👋, my name is Luis Pozo
+### Hi there 👋,  Hi 👋, my name is Luis Pozo
 #### A passionate Software Engineer from New York City !!
-![A passionate Software Engineer from New York City !!](<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/eNH7d3Unmeulua3LA1/video" width="480"></iframe></div>)
+![A passionate Software Engineer from New York City !!](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l46CqLVMWzaJUFPLW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/l46CqLVMWzaJUFPLW">via GIPHY</a></p>)
 
 I'm a software engineer whose passionate about creating open- source products that users and engineers will love to use. The reason I love the tech  is because i get to collaborate with other developers around world. Learning something new everyday is something is strive for.
 
-"I have no special talents. I am only passionately curious." -Albert Einstein
+Skills: Skills: / REACT / REDUX /  JS / TypeScript / SASS /  MONGODB /MATERIAL UI / TAILWIND / HTML / CSS
 
-Skills: / REACT / REDUX /  JS / TypeScript / SASS /  MONGODB /MATERIAL UI / TAILWIND / HTML / CSS
+- 🔭 I’m currently working on this page. 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luispozo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@luispozo26)  
 
