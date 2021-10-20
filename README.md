@@ -8,9 +8,7 @@ Skills: Skills: / REACT / REDUX /  JS / TypeScript / SASS /  MONGODB /MATERIAL U
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/luispozo26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="print_helloeric" height="30" width="40" /></a>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luispozo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@luispozo26)  
-
+<a href="https://linkedin.com/in/luispozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esaldivar1214" height="30" width="40" /></a>
 
 
 
