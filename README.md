@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Luis Pozo
+###<h1 align='center'> Hi there 👋, my name is Luis Pozo </h1>
 #### A passionate Software Engineer from New York City !!
 ![A passionate Software Engineer from New York City !!](http://thehoopdoctors.com/wp-content/uploads/2010/05/mj.jpg)
 
