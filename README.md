@@ -1,6 +1,9 @@
-###<h1 align='center'> Hi there 👋, my name is Luis Pozo </h1>
-#### A passionate Software Engineer from New York City !!
-![A passionate Software Engineer from New York City !!](http://thehoopdoctors.com/wp-content/uploads/2010/05/mj.jpg)
+<h1 align='center'> Hi there 👋, my name is Luis Pozo </h1>
+
+
+
+
+   ![A passionate Software Engineer from New York City !!](http://thehoopdoctors.com/wp-content/uploads/2010/05/mj.jpg) 
 
 I'm a software engineer whose passionate about creating open-source projects that users and engineers will love to use. The reason I love tech is because i get to collaborate with other developers around world. Learning something new everyday is something is strive for.
 
