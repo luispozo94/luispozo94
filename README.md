@@ -5,7 +5,7 @@
 
    ![A passionate Software Engineer from New York City !!](http://thehoopdoctors.com/wp-content/uploads/2010/05/mj.jpg) 
 
-Hi there! I am a Front End Engineer that loves working with React, TypeScript, and GraphQL. I am a fantastic team player, excellent communicator and my experience has instilled me with strong leadership and decision making skills that give me a very well rounded profile as an engineer.
+I am a Front End Engineer that loves working with React, TypeScript, and GraphQL. I am a fantastic team player, excellent communicator and my experience has instilled me with strong leadership and decision making skills that give me a very well rounded profile as an engineer.
 
 <!-- <a href="https://github.com/esaldivar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispozo94&layout=compact&theme=radical" />
