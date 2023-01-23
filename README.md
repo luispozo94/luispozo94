@@ -18,6 +18,7 @@ I am a Front End Engineer that loves working with React, TypeScript, and GraphQL
  -->
 
 
+![Snake animation](https://github.com/luispozo94/luispozo94/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
